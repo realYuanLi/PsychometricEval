@@ -1,5 +1,5 @@
 # Evaluating Large Language Models using Psychometrics
-![Psychometrics Benchmark Visualization](img/teaser.png)
+![Psychometrics Benchmark Visualization](img/teaser.pdf)
 
 ## Table of Contents
 - [Overview](#overview)
